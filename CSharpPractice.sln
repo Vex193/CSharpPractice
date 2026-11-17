@@ -1,0 +1,49 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTypes", "DataTypes", "{EFE6705C-76DD-9904-A998-ABF3243D9571}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{5DFC7AE1-226C-40AA-8DB2-5D8843A2AA52}"
+	ProjectSection(SolutionItems) = preProject
+		DataTypes\task1\task1.cs = DataTypes\task1\task1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task2", "task2", "{D704E1BA-AE28-46F2-BFC1-52BD0DA7950E}"
+	ProjectSection(SolutionItems) = preProject
+		DataTypes\task2\task2.cs = DataTypes\task2\task2.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{6C6A9E24-014F-44E4-A537-B237806FD912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{7086B24F-4142-4AD0-B2E9-49EEA4D51EE3}"
+	ProjectSection(SolutionItems) = preProject
+		OOP\task1\task1.cs = OOP\task1\task1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collections", "Collections", "{3B2C4D80-D841-4E88-86BF-23458E0363CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{9A89DBA3-B692-496E-9DEB-7E3C15BECD22}"
+	ProjectSection(SolutionItems) = preProject
+		Collections\task1\task1.cs = Collections\task1\task1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{D14AE1CF-44B0-45C0-8ED3-748C44CA57F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{15191CF6-40BE-405A-BF49-1D14C9A79DF1}"
+	ProjectSection(SolutionItems) = preProject
+		LINQ\task1\task1.cs = LINQ\task1\task1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15191CF6-40BE-405A-BF49-1D14C9A79DF1} = {D14AE1CF-44B0-45C0-8ED3-748C44CA57F9}
+		{5DFC7AE1-226C-40AA-8DB2-5D8843A2AA52} = {EFE6705C-76DD-9904-A998-ABF3243D9571}
+		{D704E1BA-AE28-46F2-BFC1-52BD0DA7950E} = {EFE6705C-76DD-9904-A998-ABF3243D9571}
+		{7086B24F-4142-4AD0-B2E9-49EEA4D51EE3} = {6C6A9E24-014F-44E4-A537-B237806FD912}
+		{9A89DBA3-B692-496E-9DEB-7E3C15BECD22} = {3B2C4D80-D841-4E88-86BF-23458E0363CC}
+	EndGlobalSection
+EndGlobal
