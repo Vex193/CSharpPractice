@@ -42,11 +42,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{98DF7587
 		Delegates\task1\task1.cs = Delegates\task1\task1.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{3928346B-49C1-49B0-88C4-6C59FCBB7DB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{A41C4FE3-C5C9-4BA4-93D1-B3DEA907693D}"
+	ProjectSection(SolutionItems) = preProject
+		SQL\task1\task1.sql = SQL\task1\task1.sql
+		SQL\task1\queries.sql = SQL\task1\queries.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{A41C4FE3-C5C9-4BA4-93D1-B3DEA907693D} = {3928346B-49C1-49B0-88C4-6C59FCBB7DB5}
 		{98DF7587-08C7-4549-8721-32B9887C5DA6} = {8E05AE39-C235-40B8-BE3F-12BCAAC679D6}
 		{15191CF6-40BE-405A-BF49-1D14C9A79DF1} = {D14AE1CF-44B0-45C0-8ED3-748C44CA57F9}
 		{5DFC7AE1-226C-40AA-8DB2-5D8843A2AA52} = {EFE6705C-76DD-9904-A998-ABF3243D9571}
